@@ -13,6 +13,7 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             array2[i] = i +1 ;
         }
+        //Printing the array
         for (int x : array2) {
             System.out.println(x);
         }
